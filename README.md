@@ -49,6 +49,6 @@ Weather plays a critical role in daily decision-making, event planning, agricult
 🌍 Scalability – Can be extended to multiple cities or global level for tourism or climate analysis
 
 ###7. 📸 Screenshots
-Dashboard Preview(https://github.com/rajibmondalDS/Dynamic-Weather-Dashboard/assets/dashboard.png)
+Dashboard Preview:(https://github.com/mondalrajib6291-hue/Dynamic-Weather-Dashboard-built-using-real-time-APIs-/blob/main/weather%20Dashboard_Bengaluru_view.png)
 
 
