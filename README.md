@@ -50,6 +50,6 @@ Weather plays a critical role in daily decision-making, event planning, agricult
 
 7. Screenshots / Demos
 Show what the dashboard looks like. 1[Alt text](https://github.com/username/repo/assets/image.png).
-Example: [Dashboard Preview] (https://github.com/username/repo/assets/image.png).
+Example: [Dashboard Preview] (https://github.com/mondalrajib6291-hue/Dynamic-Weather-Dashboard-built-using-real-time-APIs-/blob/main/weather%20Dashboard_Bengaluru_view.png).
 
 
