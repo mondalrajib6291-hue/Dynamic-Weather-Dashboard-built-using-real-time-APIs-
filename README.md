@@ -39,7 +39,7 @@ Data was cleaned, preprocessed, and integrated before visualization.
 🌧️ Chance of Rain – Visual bar chart for rain probability
 🔄 Live API Integration – No static data, always up to date
 
-###6. 💼 Business Problem & Insights
+6. 💼 Business Problem & Insights
 1.Business Problem
 Weather plays a critical role in daily decision-making, event planning, agriculture, and logistics. Reliable weather data and air quality insights help individuals, companies, and governments make informed decisions.
 2.Business Impact & Insights
@@ -48,7 +48,8 @@ Weather plays a critical role in daily decision-making, event planning, agricult
 🌱 Health & Safety – AQI data helps users avoid outdoor activities during poor air quality days
 🌍 Scalability – Can be extended to multiple cities or global level for tourism or climate analysis
 
-###7. 📸 Screenshots
-Dashboard Preview:(https://github.com/mondalrajib6291-hue/Dynamic-Weather-Dashboard-built-using-real-time-APIs-/blob/main/weather%20Dashboard_Bengaluru_view.png)
+7. Screenshots / Demos
+Show what the dashboard looks like. 1[Alt text](https://github.com/username/repo/assets/image.png).
+Example: [Dashboard Preview] (https://github.com/username/repo/assets/image.png).
 
 
